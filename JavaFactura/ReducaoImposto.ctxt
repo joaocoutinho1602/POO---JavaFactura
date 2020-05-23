@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ReducaoImposto
+comment0.text=\n\ Interface\ ReducaoImposto.\ \n\ \n\ @author\ (Lu\u00EDs\ Fernandes\ (A76712),\ Raquel\ Dias\ (A32954),\ Jo\u00E3o\ Coutinho\ (A86272))\n\ @version\ (2018-05-13)\n
+comment1.params=
+comment1.target=double\ reducaoImposto()
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Leituras
+comment0.text=\n\ Classe\ Leituras.\n\ \n\ @author\ (Lu\u00EDs\ Fernandes\ (A76712),\ Raquel\ Dias\ (A32954),\ Jo\u00E3o\ Coutinho\ (A86272))\n\ @version\ (2018-05-13)\n
+comment1.params=s
+comment1.target=int\ leInteiro(java.lang.String)
+comment1.text=\n\ L\u00EA\ valor\ e\ valida-o\ se\ for\ do\ tipo\ inteiro.\ Caso\ contr\u00E1rio\ devolve\ um\ erro.\n
+comment2.params=s
+comment2.target=double\ leDouble(java.lang.String)
+comment2.text=\n\ L\u00EA\ valor\ e\ valida-o\ se\ for\ do\ tipo\ double.\ Caso\ contr\u00E1rio\ devolve\ um\ erro.\n
+comment3.params=s
+comment3.target=java.lang.String\ leString(java.lang.String)
+comment3.text=\n\ L\u00EA\ uma\ string\ e\ devolve-a.\n
+comment4.params=s
+comment4.target=java.time.LocalDate\ leData(java.lang.String)
+comment4.text=\n\ L\u00EA\ valor\ e\ valida-o\ se\ for\ do\ tipo\ data.\ Caso\ contr\u00E1rio\ devolve\ um\ erro.\n
+numComments=5

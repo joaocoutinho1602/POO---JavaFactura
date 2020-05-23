@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CAdmin
+comment0.text=\n\ Classe\ Administrador\ (Sub-Classe\ da\ Classe\ Contribuinte).\n\ \n\ @author\ (Lu\u00EDs\ Fernandes\ (A76712),\ Raquel\ Dias\ (A32954),\ Jo\u00E3o\ Coutinho\ (A86272))\n\ @version\ (2018-05-13)\n
+comment1.params=
+comment1.target=CAdmin()
+comment1.text=\n\ COnstrutor\ para\ objetos\ da\ classe\ CAdmin\n
+comment2.params=cNif\ cEmail\ cNome\ cMorada\ cPassword
+comment2.target=CAdmin(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\n\ Construtor\ parametrizado\ de\ Contribuinte\ Administrador.\n
+comment3.params=umAdministrador
+comment3.target=CAdmin(CAdmin)
+comment3.text=\n\ Construtor\ de\ c\u00F3pia\ de\ Contribuinte\ Administrador.\n
+comment4.params=
+comment4.target=CAdmin\ clone()
+comment4.text=\n\ Implementa\u00E7\u00E3o\ do\ m\u00E9todo\ de\ clonagem\ de\ um\ CAdmin.\n\ \n\ @return\ objeto\ do\ tipo\ CAdmin.\n
+numComments=5
